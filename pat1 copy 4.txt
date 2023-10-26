@@ -1,0 +1,10 @@
+This file contains access token
+Assignment without quotes
+sample_token=ghp_ogd8uIg9ST1X25T2VIGmwkDNrDFd1S1DYZ02
+
+And what about this assignment in quotes?
+quoted_value="ghp_ogd8uIg9ST1X25T2VIGmwkDNrDFd1S1DYZ02"
+
+
+
+
