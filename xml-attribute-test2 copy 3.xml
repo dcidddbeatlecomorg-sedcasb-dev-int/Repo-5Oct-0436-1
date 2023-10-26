@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods" thread-count="4" verbose="8" >
+  
+  <githubpat>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</githubpat>
+  
+  <github name="token" value="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"</github>
+
+  <test name="abc" parallel="methods" thread-count="4" data-provider-thread-count="5">
+    <classes>
+      <class name="ParralelExecutionTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
