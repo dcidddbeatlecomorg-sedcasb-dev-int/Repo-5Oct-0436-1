@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="methods" thread-count="4" verbose="8" >
   
-  <githubpat>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</githubpat>
+  <githubpat>ghp_ogd8uIg9ST1X25T2VIGmwkDNrDFd1S1DYZ02</githubpat>
   
-  <github name="token" value="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"</github>
+  <github name="token" value="ghp_ogd8uIg9ST1X25T2VIGmwkDNrDFd1S1DYZ02"</github>
 
   <test name="abc" parallel="methods" thread-count="4" data-provider-thread-count="5">
     <classes>
